@@ -1,0 +1,6 @@
+#from Eclipse
+.project
+.pydevproject
+#experiment data
+raw/
+out/
